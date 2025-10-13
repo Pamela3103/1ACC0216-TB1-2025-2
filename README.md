@@ -26,10 +26,12 @@ El repositorio contiene dos carpetas principales:
 - **code**: contiene los scripts en R utilizados para la carga, inspección, preprocesamiento y visualización del dataset.
 
 ## Conclusiones
-Aquí se resumirán las conclusiones principales obtenidas del análisis exploratorio. Por ejemplo:  
-- Se identificaron patrones en la demanda de reservas según el tipo de hotel.  
-- La duración de estadía promedio varía entre hotel urbano y resort.  
-- Se detectaron outliers y valores faltantes que fueron tratados durante la preparación de datos.  
+- El **City Hotel** concentra la mayoría de las reservas, con picos entre mayo y agosto.  
+- El **Resort Hotel** presenta estancias más largas pero menor volumen de huéspedes.  
+- El año **2016** registró la mayor demanda total, con una ligera disminución en **2017**.  
+- La mayoría de las reservas no incluye niños ni requiere estacionamiento, reflejando un perfil **adulto y urbano**.  
+- Las **cancelaciones** son más frecuentes en los meses de mayor actividad y se relacionan con el **tiempo de anticipación**.  
+- Se recomienda fortalecer la **gestión operativa en temporada alta**, implementar **políticas de cancelación estratégicas**, **diferenciar las ofertas** entre hoteles y diseñar **campañas orientadas a adultos**.
 
 ## Licencia
 MIT License – ver [LICENSE](LICENSE)
