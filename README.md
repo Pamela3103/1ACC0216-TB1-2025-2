@@ -4,7 +4,6 @@ Realizar un análisis exploratorio de un conjunto de datos (EDA) para encontrar 
 
 ## Alumnos participantes
 - Rivera Contreras, Pamela Ivonne
-- Sandoval Ponce, Brandon Lee
 - Zavala Arteaga, Gabriel Aldo
 
 ## Conjunto de datos
